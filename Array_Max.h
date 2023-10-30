@@ -1,7 +1,7 @@
 /*
-Auther: Samuel Kwibe
-Auther or Student Id: 2278332
-Auther email: Samuel.kwibe@snhu.edu
+Auther: Samuel
+Auther or Student Id:000000
+Auther email: smugishasm@gmail.com
 Class: Object Oriented to programing
 Assignment: Teplate # 4
 Descrition: This defines a template fucntion array_max that finds the maximum values in an array funtion type.
